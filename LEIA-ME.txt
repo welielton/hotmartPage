@@ -1,0 +1,16 @@
+PACOTE COMPLETO – RESET DE IMPRESSORAS | SITE
+
+COMO USAR
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador para visualizar a página.
+3. Antes de publicar, abra index.html em um editor de texto.
+4. Procure por https://pay.hotmart.com/COLOQUE-SEU-LINK-AQUI
+5. Substitua esse endereço pelo link real do checkout do seu produto na Hotmart.
+6. Publique a pasta inteira em uma hospedagem estática (não envie apenas o index.html, pois a imagem está em assets/).
+
+ARQUIVOS
+- index.html: página de vendas responsiva.
+- assets/banner-reset-impressoras.png: arte de capa.
+
+IMPORTANTE
+Confira os arquivos efetivamente incluídos no produto e a compatibilidade de cada ferramenta antes de publicar. A página não promete que reset resolva defeitos físicos ou todos os erros da impressora.
